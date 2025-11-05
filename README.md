@@ -1,0 +1,1 @@
+The code performs 2D Inverse Fourier transform (IFFT) to compute the wake pattern left behind a moving source on the surface of an ultrasoft solid for given Froude number (Fr), Bond number (Bo), scaled shear wave speed (cs), and number of spectral modes (nk).
