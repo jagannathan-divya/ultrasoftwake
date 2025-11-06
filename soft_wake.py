@@ -21,7 +21,7 @@ matplotlib.use('Agg')
 # ---USER-DEFINED FUNCTIONS--- 
 # ============================
 
-# *** Computes integrand in eq. 14 ***
+# *** Computes integrand in eq. 15 ***
 def integrand(kx, ky, Fr, Bo, cs):
     c1 = 1.0
     c2 = Fr*cs
