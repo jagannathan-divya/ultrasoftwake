@@ -6,4 +6,4 @@ The code performs a 2D Inverse Fourier transform (IFFT) to compute the stationar
 Usage:
 The python script requires the standard scientific packages (NumPy + SciPy), image processing library (scikit-image) and the plotting library (Matplotlib).
 
-Run the following command: python3 soft_wake.py --Fr <Froude Number> --Bo <Bond Number> --cs <scaled shear wave speed> --nk <number of spectral modes>
+Run the following command: python3 soft_wake.py --Fr "Froude number" --Bo "Bond number" --cs "scaled shear wave speed" --nk "number of spectral modes"
