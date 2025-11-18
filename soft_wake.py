@@ -181,7 +181,7 @@ Bo = args.Bo
 cs = args.cs
 Nk = args.nk
 
-# Compute the physical domain size: include roughly extra_domain*10 wavelengths
+# Compute the physical domain size: include roughly extra_domain*nunits wavelengths
 extra_domain = 2
 nunits = 6
 Lxy = extra_domain*(nunits*2*np.pi*Fr**2)
